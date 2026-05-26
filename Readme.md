@@ -1,6 +1,7 @@
-# TICKECTSYS 
+ponle estilo a mi readme # TICKECTSYS 
 ***
-DESCRIPCION
+DE
+SCRIPCION
 CRM para el control de devoluciones y quejas.
 ***
 
@@ -14,3 +15,14 @@ en un periodo de 3 meses
 - Framework
 - IDE
 - CVS
+
+
+## ARQUITECTURA 
+la arquitectura del proyecto  sera ...
+
+## LA METODOLOGIA  
+la m,etodologia para el desarrolo de la aplicacion sera SCRUM, en 4 sprints 
+- ( )Sprint 1
+- - ( )Sprint 2
+  - - ( )Sprint 3
+    - - ( )Sprint 4 
