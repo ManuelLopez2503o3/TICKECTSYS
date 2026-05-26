@@ -1,6 +1,7 @@
-# TICKECTSYS 
+ponle estilo a mi readme # TICKECTSYS 
 ***
-DESCRIPCION
+DE
+SCRIPCION
 CRM para el control de devoluciones y quejas.
 ***
 
@@ -14,4 +15,3 @@ en un periodo de 3 meses
 - Framework
 - IDE
 - CVS
-
